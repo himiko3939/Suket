@@ -63,17 +63,7 @@ cd grass-new
 
 1. Run the application using the following command:
 
-    ```sh
-    python3 run.py
-    ```
-
-2. ### Password For those who are interested in joining our community, you can find the password at https://t.me/winsnip.
-
-    ```sh
-    Enter password: ********
-    ```
-
-3. If the password is correct, the application will start and print the ASCII banner.
+2. If the password is correct, the application will start and print the ASCII banner.
 
 ## Features
 
